@@ -1,6 +1,6 @@
 # Docker Elm Build
 
-This is a docker image with Elm 0.19 and libsysconfcpus to address https://github.com/elm/compiler/issues/1473#issuecomment-245704142.
+This is a docker image with Elm 0.19.1 and libsysconfcpus to address https://github.com/elm/compiler/issues/1473#issuecomment-245704142.
 
 ## Usage
 Configure your CI to:
